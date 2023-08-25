@@ -42,7 +42,7 @@ const USER_CONFIG = {
         },
 
         {
-          type: '节日', name: '23考研初试', year: '2023', date: '12-23',
+          type: '节日', name: '24考研初试', year: '2023', date: '12-23',
         },
         
         

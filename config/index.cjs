@@ -40,6 +40,10 @@ const USER_CONFIG = {
         {
           type: '节日', name: '恋爱纪念日', year: '2021', date: '11-16',
         },
+
+        {
+          type: '节日', name: '23考研初试', year: '2023', date: '12-23',
+        },
         
         
       ],
